@@ -1,0 +1,65 @@
+Which of the following is the correct identifier?
+$var_name 
+VAR_123 
+varname@ 
+None of the above
+B
+Which of the following is the address operator? 
+@ 
+# 
+& 
+%
+C
+Which of the following features must be supported by any programming language to become a pure object-oriented programming language?
+Encapsulation 
+Inheritance 
+Polymorphism 
+All of the above 
+D
+Which of the following refers to characteristics of an array? 
+An array is a set of similar data items 
+An array is a set of distinct data items 
+An array can hold different types of data types 
+None of the above 
+A
+If we stored five elements or data items in an array, what will be the index address or the index number of the array's last data item?
+2 
+3 
+4 
+5
+C
+Which of the following is the correct syntax for declaring the array?
+int array{}; 
+int array [5];
+Array[5]; 
+None of the above 
+B
+Which of the following is the correct syntax for accessing the first element? 
+array[2]; 
+array[0] 
+Array[5]; 
+array[1]
+B
+Which of the following gives the 4th element of the array?
+array[2]; 
+array[3] 
+Array[5]; 
+array[1]
+B
+Which type of memory is used by an Array in C++ programming language? 
+Contiguous 
+None contiguous 
+Both A and B 
+Not mentioned
+A
+Which one of the following is the correct definition of the "is_array();" function in C++? 
+It checks that the specified variable is of the array or not 
+It checks that the specified array of single dimension or not 
+It checks that the array specified of multi dimension or not 
+Both B and C
+A
+
+
+
+
+
